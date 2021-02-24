@@ -9,7 +9,7 @@ These are the packages that are included in this profile which are not included 
 * gparted
 * kate
 * konsole
-* plasma-desktop
+* plasma (group)
 * sddm
 * xorg-server
 
