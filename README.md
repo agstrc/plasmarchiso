@@ -5,6 +5,7 @@ A remix of the archiso releng profile with a plasma-desktop setup along with som
 These are the packages that are included in this profile which are not included in the releng profile.
 
 * dolphin
+* firefox
 * gnome-disk-utility
 * gparted
 * kate
