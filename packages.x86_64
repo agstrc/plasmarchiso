@@ -1,6 +1,7 @@
 alsa-utils
 amd-ucode
 arch-install-scripts
+archinstall
 b43-fwcutter
 base
 bind-tools
@@ -35,7 +36,6 @@ gparted
 gpm
 gptfdisk
 grml-zsh-config
-haveged
 hdparm
 intel-ucode
 ipw2100-fw
@@ -62,6 +62,7 @@ memtest86+
 mkinitcpio
 mkinitcpio-archiso
 mkinitcpio-nfs-utils
+modemmanager
 mtools
 nano
 nbd
@@ -88,7 +89,9 @@ rxvt-unicode-terminfo
 sddm
 sdparm
 sg3_utils
+sl
 smartmontools
+sof-firmware
 squashfs-tools
 sudo
 syslinux
@@ -100,6 +103,7 @@ testdisk
 tmux
 udftools
 usb_modeswitch
+usbmuxd
 usbutils
 vim
 vpnc
