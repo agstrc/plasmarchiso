@@ -1,5 +1,5 @@
 # Plasmarchiso
-A remix of the archiso releng profile with a plasma-desktop setup along with some useful rescue/installation tools.
+A simple remix of the releng archiso profile with some helpful GUI tools.
 
 ## New Packages
 These are the packages that are included in this profile which are not included in the releng profile.
